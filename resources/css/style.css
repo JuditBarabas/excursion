@@ -22,10 +22,11 @@ h2 {
     font-size: 40px;
 }
 
-h3 {
+h3, footer p {
+    color: grey;
     font-size: 21px;
 }
 
-h3, footer p {
-    color: grey;
+footer p {
+    text-align: right;
 }
